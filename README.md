@@ -5,6 +5,6 @@ Horiseon is a social solution service organization. We optimize search engines t
 [Horiseon Website](https://layc41.github.io/Horiseon-Project/)
 
 # Screen Shots
-Format: ![Main](/Horiseon-Main.png)
-Format: ![Main](/Horiseon-screenshot2.png)
-Format: ![Main](/Horiseon-screenshot3.png)
+![Main](/Horiseon-Main.png)
+![Main](/Horiseon-screenshot2.png)
+![Main](/Horiseon-screenshot3.png)
